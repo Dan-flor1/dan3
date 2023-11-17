@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(255, 222, 133);
+}
+#letterbox{
+    width: 1000px;
+    height: 60px;
+    background-color: aqua;
+    align-self: center;
+}
+#alfa{
+    background-color: aqua;
+    border: 0cap;
+}
