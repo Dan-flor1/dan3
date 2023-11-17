@@ -8,3 +8,7 @@ for(let i=1; i<=100;i++)
 //console.log("Answer = " + sum);
 let answer = document.querySelector('p'); //Answer will refer to the p tag in hte HTML document
 answer.innerHTML = "Answer = " + sum;//change the innerHTML of the <p>
+answer.textContent = "Answer = "+sum;
+
+answer.style.color = "red";
+answer.style.fontSize = "40px";
