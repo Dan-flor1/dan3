@@ -1,4 +1,4 @@
-alert("it is loaded");
+/*alert("it is loaded");
 let btn = document.querySelector('#myButton');
 let input = document.querySelector("#input1");
 let chose =document.querySelector('#chose');
@@ -11,4 +11,12 @@ function button_clicked()
     chose.textContent= input.value+""+ chose.textContent;
     input.value = "";
     
+}
+*/
+let fname = "Thomas";
+
+for(let i=0; i < fname.length;i++)
+{
+    alert("open");
+    alert(fname[i].toUpperCase());
 }
