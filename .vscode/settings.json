@@ -56,5 +56,6 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "livePreview.defaultPreviewPath": "/html/bio.html"
+  "livePreview.defaultPreviewPath": "/html/bio.html",
+  "liveServer.settings.port": 5501
 }
